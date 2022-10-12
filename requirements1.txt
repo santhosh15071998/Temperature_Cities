@@ -1,0 +1,6 @@
+pip==22.2.4
+numpy==1.22.3 
+pandas==1.4.2
+altair==4.2.0
+streamlit==1.13.0
+plotly.express==0.4.1
